@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test1</title>
+      <link>//localhost:1313/posts/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/test1/</guid>
+      <description>&lt;p&gt;Merry Christmas&lt;/p&gt;&#xA;&lt;p&gt;THE SETUP&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sdaj&lt;/li&gt;&#xA;&lt;li&gt;sda&#xA;&lt;img src=&#34;//localhost:1313/images/jinx-league-of-legends-arcane-video-game-characters-netflix-tv-series-tv-hd-wallpaper-preview.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;hkjh\&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fuck you go to hell&#xA;&lt;img src=&#34;//localhost:1313/images/vi.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;sadk&lt;/li&gt;&#xA;&lt;li&gt;dfaf&lt;/li&gt;&#xA;&lt;li&gt;i dont want to live&lt;/li&gt;&#xA;&lt;li&gt;i hate my life&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
